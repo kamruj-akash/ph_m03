@@ -1,0 +1,4 @@
+what is Null is java script? 
+js keyword?
+js naming convension
+what is isNaN?
